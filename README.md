@@ -17,7 +17,7 @@ OCT. 25th 2019
 Project 3: "Post your work on GitHub"
 
 # Description
-This project is the 3rd project of Udacity's Nanodegree "Programming for Data Science". The project is to show that work with a local and rempote repository is familiar. Several branches will be created and merged. The code file which is content of this repo is taken from Project 2 "Explore US bike share data" from the same Udacity Nanodegree and allows to analyse bike share data from 3 different US cities in order to calculate statistics depending on city, month and day of week.
+In this project, I made a use of Python to explore data related to bike share systems for three major cities in the United States, Which is Chicago, New York City, and Washington, Also to Run statistics on multiple data pools related to bicycle sharing.
 
 # Files used
 Following files are containing necessary code: bikeshare.py
