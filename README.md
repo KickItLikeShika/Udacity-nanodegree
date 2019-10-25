@@ -11,7 +11,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 # Date created
-Feb. 22nd 2019
+OCT. 25th 2019
 
 # Project Title
 Project 3: "Post your work on GitHub"
