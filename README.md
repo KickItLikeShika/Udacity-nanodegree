@@ -19,6 +19,13 @@ Project 3: "Post your work on GitHub"
 # Description
 In this project, I made a use of Python to explore data related to bike share systems for three major cities in the United States, Which is Chicago, New York City, and Washington, Also to Run statistics on multiple data pools related to bicycle sharing.
 
+More features -Refac Branch-:
+- I have reduced the number of lines another time! Only 222 lines!!
+- Changed the look again
+- I improved the readability much better this time.
+- Added more features
+- A bit faster than Before
+
 # Files used
 Following files are containing necessary code: bikeshare.py
 
