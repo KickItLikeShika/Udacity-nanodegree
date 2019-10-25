@@ -20,6 +20,11 @@ Project 3: "Post your work on GitHub"
 This project is part of my Udacity's Nanodegree: Programming for Data Science.
 The goal of this project is to compute descriptive statistics to gain insights of bike share data of three U.S cities: Chicago, New York City, and Washington. An interactive experience in the terminal will be provided as we run this Python script. The program would allow users to select the city, month and day of interest for calculating descriptive statistics. Popular times of travel, most popular stations and average trip durations etc will be calculated and revealed. An option to display original data is also provided.
 
+More features -Doc Branch-:
+- I have reduced the number of lines, 244 lines instead of 353 lines! pretty cool hah!
+- I changed the look of the program when you run it.
+- I added more nice features you can see it when you run the program.
+
 # Files used
 Following files are containing necessary code: bikeshare.py
 
